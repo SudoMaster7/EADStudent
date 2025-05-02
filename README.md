@@ -16,9 +16,7 @@
 
 ### Backend:
 
-* Node.js
-* Express.js
-* PostgreSQL ou MongoDB *(especificar o banco utilizado)*
+* Django
 
 ---
 
